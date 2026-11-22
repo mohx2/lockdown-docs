@@ -13,6 +13,7 @@ Lockdown lets you block distracting applications and websites during focus sessi
 - **Custom Allowlist** — Choose which applications and websites are allowed during a session.
 - **Focus Sessions** — Start a session with your restrictions in place.
 - **Emergency Exit** — A controlled way to end a session early if needed.
+- **Scheduled Blocks** - Our latest feature added. You can now schedule blocks on any time you want for any specific duration you set
 
 ## Installation
 
